@@ -27,6 +27,7 @@ minha evolução de aprendizado. Seja muito bem-vindo.
 </div>
 
 ---
+### About me
 
 - 👋 Hi, I'm @duduisonfire, or rather, Igor Tiburcio Cavalcanti.
 I'm a non-practicing lawyer, I'm looking to change my career to something I really enjoy. 
