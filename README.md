@@ -17,7 +17,7 @@ minha evolução de aprendizado. Seja muito bem-vindo.
 
 ### Estou Aprendendo
  
-[![My Skills](https://skills.thijs.gg/icons?i=php,node,ts)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=php,nodejs,ts)](https://github.com/duduisonfire/)
 
 ### Contatos:
 
@@ -40,7 +40,7 @@ This is my Github where I will be posting my learning evolution. Be very welcome
 
 ### Learning
  
-[![My Skills](https://skills.thijs.gg/icons?i=php,node,ts)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=php,nodejs,ts)](https://github.com/duduisonfire/)
 
 ### Contacts:
 
