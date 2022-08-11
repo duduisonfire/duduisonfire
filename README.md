@@ -4,7 +4,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=duduisonfire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)]
 
 ### Sobre Mim
 
