@@ -3,6 +3,8 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduisonfire&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=duduisonfire&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ 
+ [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
 
 ### Sobre Mim
 
