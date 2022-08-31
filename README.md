@@ -13,11 +13,11 @@ minha evolução de aprendizado. Seja muito bem-vindo.
 
 ### Ferramentas e Tecnologias
  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,nodejs)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,nodejs,express)](https://github.com/duduisonfire/)
 
 ### Estou Aprendendo
  
-[![My Skills](https://skills.thijs.gg/icons?i=ts,express,react,tailwind)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,react,tailwind)](https://github.com/duduisonfire/)
 
 ### Contatos:
 
@@ -36,11 +36,11 @@ This is my Github where I will be posting my learning evolution. Be very welcome
 
 ### Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,nodejs)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,js,nodejs,express)](https://github.com/duduisonfire/)
 
 ### Learning
  
-[![My Skills](https://skills.thijs.gg/icons?i=ts,express,react,tailwind)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=ts,react,tailwind)](https://github.com/duduisonfire/)
 
 ### Contacts:
 
