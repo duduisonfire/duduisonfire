@@ -13,7 +13,7 @@ minha evolução de aprendizado. Seja muito bem-vindo.
 
 ### Ferramentas e Tecnologias
  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,bootstrap,tailwind,nodejs,mongodb,express,mysql,react,ts,cs,dotnet)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,bootstrap,tailwind,nodejs,mongodb,express,mysql,react,ts,cs,dotnet,jest)](https://github.com/duduisonfire/)
 
 ### Estou Aprendendo
  
@@ -36,7 +36,7 @@ This is my Github where I will be posting my learning evolution. Be very welcome
 
 ### Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,git,bootstrap,tailwind,nodejs,mongodb,express,mysql,react,ts,cs,dotnet)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=git,html,css,js, c, ts,cs,dotnet,react,jest,bootstrap,tailwind,nodejs,mongodb,express,mysql)](https://github.com/duduisonfire/)
 
 ### Learning
  
