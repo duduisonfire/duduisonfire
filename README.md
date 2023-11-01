@@ -16,15 +16,20 @@ minha evolução de aprendizado. Seja muito bem-vindo.
 [![My Skills](https://skills.thijs.gg/icons?i=git,html,css,bootstrap,tailwind,js,ts,react,jest,c,cs,java,dotnet,nodejs,mongodb,express,mysql)](https://github.com/duduisonfire/)
 
 ### Meus Projetos
- 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duduisonfire/rune-maker/master/repo-logo.png" alt="Logo" height=150>
+</p>
+
 Atualmente sou mantenedor de um projeto open-source chamado Rune Maker, ele é um assistente para o jogo League of Legends onde o programa seleciona as runas dos personagens automaticamente no início de cada partida. 
 
 O projeto consiste em duas partes, um front-end construído com Electron, React e Tailwind. Nessa parte é onde acontece toda a comunicação com o client do LoL e fica responsável por alterar as runas e exibir informações. Você pode dar uma olhada no repositório: https://github.com/duduisonfire/rune-maker, se curtir deixa uma estrelinha para apoiar o projeto.
 
 A segunda parte é um back-end construído com C#, Aspnet Core e MongoDB. Basicamente o programa consiste em uma API que devolve a lista de runas indicada para o campeão selecionado e um Webscrap agendado num CronJob pra coletar os dados das runas do site u.gg e salvar no banco de dados. Esta API também é aberta e se alguém quiser utilizar em outro projeto pode ficar a vontade, no repositório tem o endereço da API. Você pode dar uma olhada no repositório: https://github.com/duduisonfire/RuneScrapingApi, se curtir deixa uma estrelinha para apoiar o projeto.
 
-<img src="https://imageupload.io/ib/5X5ryppsrl9dqhy_1698138530.png" alt="Select LoL Folder" width=300>
-<img src="https://user-images.githubusercontent.com/37435869/279544064-36e7903a-6fe7-41b7-ac21-1a730c84218a.png" alt="Open Client" width=300>
+<p align="center">
+ <img src="https://imageupload.io/ib/5X5ryppsrl9dqhy_1698138530.png" alt="Select LoL Folder" width=300>
+ <img src="https://user-images.githubusercontent.com/37435869/279544064-36e7903a-6fe7-41b7-ac21-1a730c84218a.png" alt="Open Client" width=300>
+</p>
 
 ### Contatos:
 <div>
@@ -45,6 +50,9 @@ This is my Github where I will be posting my learning evolution. Be very welcome
 [![My Skills](https://skills.thijs.gg/icons?i=git,html,css,bootstrap,tailwind,js,ts,react,jest,c,cs,java,dotnet,nodejs,mongodb,express,mysql)](https://github.com/duduisonfire/)
 
 ### My Projects
+<p align="center">
+  <img src="https://raw.githubusercontent.com/duduisonfire/rune-maker/master/repo-logo.png" alt="Logo" height=150>
+</p>
  
 I am currently the maintainer of an open-source project called Rune Maker, it is an assistant for the game League of Legends where the program selects the characters' runes automatically at the start of each match.
 
@@ -52,8 +60,10 @@ The project consists of two parts, a front-end built with Electron, React and Ta
 
 The second part is a backend built with C#, Aspnet Core and MongoDB. Basically the program consists of an API that returns the list of runes indicated for the selected champion and a Webscrap scheduled in a CronJob to collect the rune data from the u.gg website and save it in the database. This API is also open and if anyone wants to use it in another project they can feel free, the repository has the API address. You can take a look at the repository: https://github.com/duduisonfire/RuneScrapingApi, if you like it, give a star to support the project.
 
-<img src="https://imageupload.io/ib/5X5ryppsrl9dqhy_1698138530.png" alt="Select LoL Folder" width=300>
-<img src="https://user-images.githubusercontent.com/37435869/279544064-36e7903a-6fe7-41b7-ac21-1a730c84218a.png" alt="Open Client" width=300>
+<p align="center">
+ <img src="https://imageupload.io/ib/5X5ryppsrl9dqhy_1698138530.png" alt="Select LoL Folder" width=300>
+ <img src="https://user-images.githubusercontent.com/37435869/279544064-36e7903a-6fe7-41b7-ac21-1a730c84218a.png" alt="Open Client" width=300>
+</p>
 
 ### Contacts:
 
