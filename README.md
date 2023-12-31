@@ -47,7 +47,7 @@ This is my Github where I will be posting my learning evolution. Be very welcome
 
 ### Technologies
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,html,css,bootstrap,tailwind,js,ts,react,jest,c,cs,java,dotnet,nodejs,mongodb,express,mysql)](https://github.com/duduisonfire/)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,html,css,tailwind,js,ts,react,angular,docker,jest,cs,electron,dotnet,nodejs,mongodb,express,mysql,linux)](https://github.com/duduisonfire/)
 
 ### My Projects
 <p align="center">
