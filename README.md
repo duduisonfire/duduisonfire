@@ -7,9 +7,7 @@
 ### Sobre Mim
 
 - 👋 Olá, Eu sou o @duduisonfire, ou melhor, Igor Tiburcio Cavalcanti.
-Sou um advogado que não advoga, estou buscando a mudança de carreira 
-para algo que eu realmente gosto. Este é meu Github onde estarei postando
-minha evolução de aprendizado. Seja muito bem-vindo.
+Atualmente sou desenvolvedor de software na Juridico.ai. Seja muito bem vindo. Seja muito bem-vindo.
 
 ### Ferramentas e Tecnologias
  
@@ -42,8 +40,7 @@ A segunda parte é um back-end construído com C#, Aspnet Core e MongoDB. Basica
 ### About me
 
 - 👋 Hi, I'm @duduisonfire, or rather, Igor Tiburcio Cavalcanti.
-I'm a non-practicing lawyer, I'm looking to change my career to something I really enjoy. 
-This is my Github where I will be posting my learning evolution. Be very welcome.
+I am currently a software developer at Juridico.ai. Be very welcome.
 
 ### Technologies
 
